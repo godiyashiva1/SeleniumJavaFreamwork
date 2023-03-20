@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-20T07:08:11 EDT" name="Default suite" finished-at="2023-03-20T07:08:11 EDT" duration-ms="249">
+    <groups>
+    </groups>
+    <test started-at="2023-03-20T07:08:11 EDT" name="Default test" finished-at="2023-03-20T07:08:11 EDT" duration-ms="249">
+      <class name="testArtifactID.TestNG1">
+        <test-method signature="test1()[pri:0, instance:testArtifactID.TestNG1@429bffaa]" started-at="2023-03-20T07:08:11 EDT" name="test1" finished-at="2023-03-20T07:08:11 EDT" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testArtifactID.TestNG1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
