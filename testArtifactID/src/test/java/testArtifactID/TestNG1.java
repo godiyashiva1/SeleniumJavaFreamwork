@@ -10,5 +10,6 @@ public class TestNG1 {
 		System.out.println("Hello Java");
 		System.out.println("Hello Github");
 		System.out.println("Hello Jenkins");
+		System.out.println("Hello World");
 	}
 }
