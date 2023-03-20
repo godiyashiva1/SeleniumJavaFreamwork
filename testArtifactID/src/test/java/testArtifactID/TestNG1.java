@@ -8,5 +8,7 @@ public class TestNG1 {
 	public void test1() {
 		System.out.println("Hello Selenium");
 		System.out.println("Hello Java");
+		System.out.println("Hello Github");
+		System.out.println("Hello Jenkins");
 	}
 }
